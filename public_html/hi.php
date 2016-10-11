@@ -2,6 +2,8 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
+		<!-- adding CSS file -->
+		<link href="css/stylesheet.css" type="text/css" rel="stylesheet">
 		<title>Hi! This is my Page</title>
 	</head>
 	<body>
