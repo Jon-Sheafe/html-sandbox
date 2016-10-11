@@ -18,7 +18,16 @@
 				</p>
 					<img src="img/heart.jpg" alt="heart">
 			</section>
-			<section></section>
+			<h2>My favorite Things</h2>
+				<ul>
+					<li>Senator Arlo</li>
+					<li>Star Wars</li>
+					<li>trinidad</li>
+					<li>tobago</li>
+				</ul>
+			<section>
+
+			</section>
 			<section></section>
 		</main>
 		<h1>Hello, World! :D</h1>
