@@ -25,8 +25,27 @@
 					<li>trinidad</li>
 					<li>tobago</li>
 				</ul>
+			<!--begin section 3-->
 			<section>
+				<table>
+					<tr><th>Header 1</th>
+						<th>Header 2</th>
+						</tr>
+						<tr>
+							<td>cat</td>
+							<td>dog</td>
+						</tr>
+						<tr>
+							<td>car</td>
+							<td>bike</td>
+						</tr>
+						<tr>
+							<td>star wars</td>
+							<td>star trek</td>
+						</tr>
 
+
+				</table>
 			</section>
 			<section></section>
 		</main>
